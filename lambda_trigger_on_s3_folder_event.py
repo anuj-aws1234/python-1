@@ -1,3 +1,4 @@
+##this code uses SNS msg as inventory
 import boto3
 import json
 
